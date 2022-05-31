@@ -12,3 +12,8 @@ Instead of Eth, the transaction is controlled with the transfer of the token.The
 * Step 5: List an NFT in Marketplace using the contract address of NFT.
 * Step 6: Buy the given token with the amount mentioned.
 * Step 7:- (Optional) Call the "balanceOf" method in the ERC20.sol contract to check for the allocated tokens for the required addresses.
+##Contract Verification
+Here are the links for the contract verification and transactions on each
+ERC20:- https://rinkeby.etherscan.io/address/0x42739C8D2b74818Cb2a086ce3c67324A3462D380#code
+NFT:- https://rinkeby.etherscan.io/address/0xA7Dda1ff5Dd45A979c19371A9F2DEdff1c923c4B
+Marketplace:- https://rinkeby.etherscan.io/address/0xa5e72841B0459D9F4E1f17bf71e112e389c70181#code
