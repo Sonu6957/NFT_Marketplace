@@ -6,9 +6,9 @@ This project demonstrates the working of NFT buying and selling with the a custo
 Instead of Eth, the transaction is controlled with the transfer of the token.The amount gets distributed among platform and as a royalty to the creator.
 ## How to Install and Run the Project
 * Step 1: Use remix, truffle, or Hardhat to deploy ERC20.sol. This adds 100 million TestTokens to your wallet.
-* Step 2: Using the tools indicated in step 1, deploy NFT.sol  and mint a token on any account
+* Step 2: Using the tools indicated in step 1, deploy NFT.sol  and mint a token on your account.
 * Step 3: Using the tools indicated in step 1, deploy Marketplace.sol using ERC20.sol contract address. 
 * Step 4: Approve Marketplace contract on both ERC20 and NFT contracts to transact your tokens or NFTs.
-* Step 5: List an NFT in Marketplace using the contract address of NFT .
+* Step 5: List an NFT in Marketplace using the contract address of NFT.
 * Step 6: Buy the given token with the amount mentioned.
 * Step 7:- (Optional) Call the "balanceOf" method in the ERC20.sol contract to check for the allocated tokens for the required addresses.
